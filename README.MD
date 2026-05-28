@@ -68,3 +68,17 @@
 
 [607. Sales Person](src/database/_607)
 
+[1327. List the Products Ordered in a Period](src/database/_1327)
+
+[1693. Daily Leads and Partners](src/database/_1693)
+
+[1693. Daily Leads and Partners](src/database/_1633)
+
+[3465. Find Products with Valid Serial Numbers](src/database/_3465)
+
+[1517. Find Users With Valid E-Mails](src/database/_1517)
+
+[3436. Find Valid Emails](src/database/_3436)
+
+[1084. Sales Analysis III](src/database/_1084)
+
