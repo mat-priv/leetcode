@@ -82,3 +82,17 @@
 
 [1084. Sales Analysis III](src/database/_1084)
 
+[1978. Employees Whose Manager Left the Company](src/database/_1978)
+
+[610. Triangle Judgement](src/database/_610)
+
+[1683. Invalid Tweets](src/database/_1683)
+
+[1141. User Activity for the Past 30 Days I](src/database/_1141)
+
+[1731. The Number of Employees Which Report to Each Employee](src/database/_1731)
+
+[1075. Project Employees I](src/database/_1075)
+
+[1050. Actors and Directors Who Cooperated At Least Three Times](src/database/_1050)
+
