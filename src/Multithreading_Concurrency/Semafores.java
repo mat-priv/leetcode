@@ -1,4 +1,4 @@
-package Multithreading_Concurrency.threads_creation;
+package Multithreading_Concurrency;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
