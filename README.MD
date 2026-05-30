@@ -13,6 +13,8 @@
 
 [206. Reverse Linked List](src/Algorithms/_206)
 
+[222. Count Complete Tree Nodes](src/Algorithms/_222)
+
 [231. Power of Two](src/Algorithms/_231)
 
 [257. Binary Tree Paths](src/Algorithms/_257)
@@ -82,11 +84,15 @@
 
 [1327. List the Products Ordered in a Period](src/database/_1327)
 
+[1378. Replace Employee ID With The Unique Identifier](src/database/_1378)
+
 [1517. Find Users With Valid E-Mails](src/database/_1517)
 
 [1572. Patients With a Condition](src/database/_1572)
 
 [1633. Percentage of Users Attended a Contest](src/database/_1633)
+
+[1667. Fix Names in a Table](src/database/_1667)
 
 [1683. Invalid Tweets](src/database/_1683)
 
