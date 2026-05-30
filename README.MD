@@ -96,3 +96,13 @@
 
 [1050. Actors and Directors Who Cooperated At Least Three Times](src/database/_1050)
 
+[620. Not Boring Movies](src/database/_620)
+
+[627. Swap Sex of Employees](src/database/_627)
+
+[1068. Product Sales Analysis I](src/database/_1068)
+
+[3793. Find Users with High Token Usage](src/database/_3793)
+
+[3570. Find Books with No Available Copies](src/database/_3570)
+
